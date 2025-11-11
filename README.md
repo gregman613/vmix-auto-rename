@@ -4,7 +4,7 @@ Automatically renames vMix recording files based on API data and sends Telegram 
 # vMix Auto Rename (Universal) & Telegram Notify
 
 A small Python tool that **renames vMix recordings** when recording stops and **notifies Telegram**.  
-Works cross‑platform (Windows/macOS/Linux). No hard‑coded paths, no IDs, no tokens in the repo.
+Works cross‑platform (Windows/macOS/Linux).
 
 ---
 
